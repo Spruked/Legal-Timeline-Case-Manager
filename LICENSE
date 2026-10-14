@@ -1,0 +1,31 @@
+Copyright (c) 2026 Spruked. All rights reserved.
+
+PROPRIETARY SOFTWARE — ALL RIGHTS RESERVED
+
+This license applies to the original Legal Timeline Case Manager application
+source code, documentation, designs, and other original materials authored
+and owned by Spruked in this repository (the "Proprietary Materials").
+
+No license is granted to any other person or entity to use, copy, modify,
+distribute, sublicense, sell, publish, deploy, or create derivative works of
+the Proprietary Materials without prior written authorization from the
+copyright owner.
+
+The availability of source code in a public repository does not grant
+permission to use or redistribute the Proprietary Materials.
+
+EXCLUDED THIRD-PARTY AND SEPARATELY LICENSED MATERIAL
+
+This notice does not change, supersede, or claim ownership of materials
+licensed by third parties or governed by their own license files. In
+particular, the Tesseract OCR source in tesseract/ is subject to its own
+Apache License 2.0 terms; the separately licensed AIMS source in AIMS/
+remains subject to AIMS/LICENSE. Other third-party files remain subject to
+their respective applicable licenses. See THIRD_PARTY_NOTICES.md.
+
+THE PROPRIETARY MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTIES OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, THE COPYRIGHT OWNER IS NOT LIABLE FOR DAMAGES ARISING FROM THEIR USE.
+
+For licensing permission, contact the repository owner through GitHub.
