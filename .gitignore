@@ -1,1 +1,44 @@
+# Private user data and exported case materials
 evidence/
+**/evidence/
+cases/
+case-data/
+imports/
+exports/
+private/
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Secrets and machine-local settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.json
+
+# Generated files and caches
+node_modules/
+dist/
+build/
+coverage/
+.tmp/
+tmp/
+temp/
+.cache/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.log
+.DS_Store
+Thumbs.db
+
+# Local tooling and IDE personal state
+.vscode/*.log
