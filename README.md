@@ -20,3 +20,9 @@ Open `index.html` in a modern desktop browser. It is a standalone, dependency-fr
 - Dates that are uncertain must not be silently invented.
 - The app records and organizes, **never determines legal outcome or requirements**.
 - All imported files and case records stay user-owned; provide a complete export/import with originals.
+
+## License and privacy
+
+**Proprietary — all rights reserved.** Original Legal Timeline Case Manager materials are governed by the root [LICENSE](LICENSE). Bundled dependencies and separately licensed works keep their own licenses; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+
+This is a general-purpose legal records organizer, not a repository of any individual's court history. Do not commit real case files, imported documents, sensitive records, or credentials. Repository visibility is currently public; changing visibility is a separate GitHub setting.
